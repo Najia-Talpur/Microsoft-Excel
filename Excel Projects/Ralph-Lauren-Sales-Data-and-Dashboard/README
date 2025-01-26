@@ -1,4 +1,6 @@
-In this project, we analyzed data from the Ralph Lauren brand and implemented a detailed analysis to extract insights. Initially, we designed an interactive dashboard incorporating key icons for navigation, such as 'Dashboard,' 'Data,' 'Emails,' and 'About.' Each icon was linked to its respective section, enabling seamless transitions to their associated dashboards with a single click.
+In this project, we analyzed data from the Ralph Lauren brand and implemented a detailed analysis to extract insights. Initially, we designed an interactive dashboard 
+incorporating key icons for navigation, such as 'Dashboard,' 'Data,' 'Emails,' and 'About.' Each icon was linked to its respective section, enabling seamless 
+transitions to their associated dashboards with a single click.
 
 The dataset included customer names, order dates, U.S. states, sales, profits, and feedback metrics such as quality, service, and availability. We began by cleaning 
 and organizing the data to ensure accuracy. Then, we applied formulas to calculate key performance indicators, including total sales, profits, customer counts, 
