@@ -1,10 +1,10 @@
 In this project, we analyzed data from the Ralph Lauren brand and implemented a detailed analysis to extract insights. Initially, we designed an interactive dashboard 
 incorporating key icons for navigation, such as 'Dashboard,' 'Data,' 'Emails,' and 'About.' Each icon was linked to its respective section, enabling seamless 
 transitions to their associated dashboards with a single click.
-<br>
+
 The dataset included customer names, order dates, U.S. states, sales, profits, and feedback metrics such as quality, service, and availability. We began by cleaning 
 and organizing the data to ensure accuracy. Then, we applied formulas to calculate key performance indicators, including total sales, profits, customer counts, 
 monthly sales (from January to December) for 2022 and 2023, and order counts for each state. We also analyzed customer feedback to gauge satisfaction trends.
-<br>
+
 Finally, we developed a visually appealing and interactive dashboard to present the data more effectively, allowing for precise insights into sales performance, 
 state-wise orders, and feedback trends. This streamlined presentation makes the analysis intuitive and accessible for decision-making.
