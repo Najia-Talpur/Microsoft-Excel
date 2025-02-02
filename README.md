@@ -1,15 +1,26 @@
 # Roadmap for Mastering Microsoft Excel
 # Beginner Excel
+<br>
 * Getting Started with Excel:
+<br>
 1- Understand the interface: ribbon, tabs, and menu options
+<br>
 2- Learn basic navigation (cells, rows, and columns)
+<br>
 3- Open, save, and manage Excel workbooks
-
+<br>
+<br>
 * Basic Data Entry and Formatting:
+<br>
 1- Enter text, numbers, and dates
+<br>
 2- Apply formatting (font, cell color, borders)
+<br>
 3- Adjust row heights and column widths
+<br>
 5- Use "Format Painter"
+<br>
+<br>
 
 * Basic Formulas and Functions:
 1- Sum (=SUM()), Average (=AVERAGE()), Min/Max (=MIN(), =MAX())
