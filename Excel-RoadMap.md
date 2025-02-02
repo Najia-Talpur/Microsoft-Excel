@@ -32,9 +32,9 @@
 <br>
 2- Use freeze panes and split screens
 <br>
+<br>
 
 # Intermediate Excel
-<br>
 
 ## Data Sorting and Filtering:
 1- Apply sorting (ascending, descending)
@@ -49,7 +49,6 @@
 <br>
 3- Date and Text Functions (DATE, CONCATENATE, LEFT, RIGHT, TRIM)
 <br>
-<br>
 
 ## Data Visualization:
 1- Create and format charts (bar, line, pie charts)
@@ -61,6 +60,7 @@
 1- Highlight cells based on rules
 <br>
 2- Use color scales and data bars
+<br>
 <br>
 
 # Advanced Excel
@@ -90,9 +90,9 @@
 <br>
 2- Apply input restrictions
 <br>
+<br>
 
 # Expert Excel
-<br>
 
 ## Macros and Automation:
 1- Record simple macros
@@ -112,7 +112,7 @@
 2- Merge and transform datasets
 <br>
 
-# Advanced Analytics:
+## Advanced Analytics:
 1- Perform what-if analysis (Goal Seek, Data Tables)
 <br>
 2- Use Solver for optimization problems
